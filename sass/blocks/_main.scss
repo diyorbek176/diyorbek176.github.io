@@ -1,0 +1,47 @@
+.main{
+    width: 1277px;
+    height: 669px;
+    margin: 0 auto;
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-between;
+
+    img{
+        width: 725px;
+        height: 669px;
+    }
+}
+
+.main .main_text{
+    width: 484px;
+    height: auto;
+    color: #fff;
+
+    h1{
+        width: 484px;
+        height: 104px;
+        font-size: 40px;
+        font-weight: 700;
+        // color: #fff;
+
+    }
+
+    p{
+        width: 460px;
+        height: 78px;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        font-size: 16px;
+        font-weight: 600;
+
+    }
+
+    .main_btn{
+        width: 150px;
+        height: 42px;
+        border: none;
+        border-radius: 5px;
+        color: #fff;
+        background: #3A68B8;
+    }
+}

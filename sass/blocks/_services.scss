@@ -1,0 +1,46 @@
+.services{
+    width: 1930px;
+    height: 454px;
+    margin: 0 auto;
+    margin-top: 170px;
+    margin-bottom: 205px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.services .ser_box{
+    width: 362px;
+    height: 389px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+    color: #fff;
+    background-color: rgba(88, 85, 85, 0.216);
+
+    img{
+        width: 73px;
+        height: 69px;
+        opacity: 1;
+    }
+
+    h2{
+        width: 302px;
+        height: 62px;
+        margin-top: 47px;
+        margin-bottom: 30px;
+        font-size: 25px;
+        font-weight: 700;
+    }
+
+    p{
+        width: 302px;
+        height: 104px;
+        padding: 0 10px;
+        font-size: 16px;
+        font-weight: 600;
+    }
+}
